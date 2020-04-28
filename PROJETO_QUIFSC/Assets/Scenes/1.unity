@@ -2712,32 +2712,6 @@ MonoBehaviour:
   - "A soma entre os 10 sucessores de um n\xFAmero natural \xE9 igual a 155. Que n\xFAmero
     natural \xE9 esse?"
   - 'Qual o MMC de (4,6) ? '
-  - 'Qual o  M.M.C de (15, 24, 60) ? '
-  - "O valor de \u221A2 + \u221A3.\u221A18 \xE9 igual a:   "
-  - 'Qual o M.D.C de (12, 32, 64 e 120) ? '
-  - Qual o M.D.C de (105,75 e 180) ?
-  - "Um painel decorativo retangular, com dimens\xF5es 2,31m e 92,4 cm, foi dividido
-    em um n\xFAmero m\xEDnimo de quadrados de lados paralelos aos lados do painel
-    e \xE1reas iguais, Esse n\xFAmero de quadrados \xE9:"
-  - "Uma marcenaria possui t\xE1buas com 170 cm de comprimento e t\xE1buas com 272
-    cm de comprimento; as t\xE1bua ser\xE3o cortadas em peda\xE7os de mesmo tamanho,
-    sendo este tamanho o maior poss\xEDvel. "
-  - "O valor da express\xE3o 20x^3 + 2x^2y^5, para x = - 4 e y = 2 \xE9: "
-  - "O algarismo das unidades de 9^99 \u2013 4^44 \xE9:"
-  - "( 3^6 . 3^-2 ) : 3^4 \xE9 igual a:"
-  - "Um adulto humano saud\xE1vel abriga cerca de 100 bilh\xF5es de bact\xE9rias,
-    somente em seu trato digestivo. Esse n\xFAmero de bact\xE9rias pode ser escrito
-    como:"
-  - "Qual o valor de x na equa\xE7\xE3o a seguir:  3 \u2013 2 * (x + 3) = x \u2013
-    18  ? "
-  - "A idade da minha m\xE3e multiplicada pela minha idade \xE9 igual a 525. Se quando
-    eu nasci minha m\xE3e tinha 20 anos, quantos anos eu tenho?"
-  - 'Se 6 impressoras iguais produzem 1000 panfletos em 40 minutos, em quanto tempo
-    3 dessas impressoras produziram 2000 desses panfletos?  '
-  - "Qual o valor de f(x) = x\xB2 + 3x \u2013 10 para que f(x) = 0"
-  - " A fun\xE7\xE3o f, do 1\xB0 grau, \xE9 definida por f(x) = 3x + k. O valor de
-    k para que o gr\xE1fico de f corte o eixo das ordenadas no ponto de ordenada 5
-    \xE9:"
   perguntasImg: []
   correta:
   - A
@@ -2750,22 +2724,7 @@ MonoBehaviour:
   - B
   - A
   - C
-  - A
-  - D
-  - C
-  - C
-  - A
-  - A
-  - D
-  - C
-  - B
-  - C
-  - C
-  - C
-  - A
-  - C
-  - A
-  qtdPerguntas: 25
+  qtdPerguntas: 10
   listaPerguntas: 
   alternativaA:
   - 7763
@@ -2778,21 +2737,6 @@ MonoBehaviour:
   - x = 0 e y = 5
   - 10
   - 13
-  - 120
-  - "\u221A56"
-  - 7
-  - 10
-  - 10
-  - 34
-  - 256
-  - 1
-  - 0
-  - 10^9
-  - 7
-  - 12 anos
-  - 'x= 160 '
-  - 4
-  - "x1 = 2  e  x2 = \u2013 5"
   alternativaB:
   - 7751
   - 848
@@ -2804,21 +2748,6 @@ MonoBehaviour:
   - 'x + y = 7 '
   - 7
   - 24
-  - 121
-  - "\u221A108"
-  - 3
-  - 12
-  - 8
-  - 30
-  - -400
-  - 2
-  - 1
-  - 10^10
-  - 10
-  - 14 anos
-  - x= 162
-  - 2
-  - x1 = 3 e x2 = -2
   alternativaC:
   - 7668
   - 845
@@ -2830,21 +2759,6 @@ MonoBehaviour:
   - 'x = 0 e y = 1 '
   - 8
   - 12
-  - 119
-  - "\u221A2 + 54"
-  - 4
-  - 15
-  - 16
-  - 22
-  - 400
-  - 3
-  - 3^-3
-  - 10^11
-  - 5
-  - 15 anos
-  - x= 161
-  - 5
-  - x1=-5 e x2= 2
   alternativaD:
   - 7764
   - 846
@@ -2856,21 +2770,6 @@ MonoBehaviour:
   - x + 2 y = 7
   - 9
   - 36
-  - 115
-  - "\u221A2.(1 + 3.\u221A3)"
-  - 10
-  - 17
-  - 9
-  - 36
-  - -256
-  - 4
-  - 3^-8
-  - 10^12
-  - 3
-  - 17 anos
-  - x=163
-  - '3 '
-  - x1=6 e x2= 7
   paineis:
   - {fileID: 702706836}
   - {fileID: 1490484491}
